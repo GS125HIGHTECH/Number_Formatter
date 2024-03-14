@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Konwerter Liczb</string>
+    <string name="input_number">Wpisz liczbę</string>
+    <string name="format_label">Wybierz format liczby</string>
+    <string name="format_result">Wynik</string>
+    <string name="decimal">Dziesiętny</string>
+    <string name="hexadecimal">Szesnastkowy</string>
+    <string name="octal">Ósemkowy</string>
+    <string name="binary">Binarny</string>
+</resources>

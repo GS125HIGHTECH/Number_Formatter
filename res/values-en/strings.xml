@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Number Converter</string>
+    <string name="input_number">Insert number</string>
+    <string name="format_label">Choose number format</string>
+    <string name="format_result">Result</string>
+    <string name="decimal">Decimal</string>
+    <string name="hexadecimal">Hexadecimal</string>
+    <string name="octal">Octal</string>
+    <string name="binary">Binary</string>
+</resources>
